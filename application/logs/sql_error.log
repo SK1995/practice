@@ -1,0 +1,18 @@
+[2016-09-01 05:19:46] db_error.CRITICAL 4907 03dae08: SQL Error: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) at /home/you/php/practice/framework/classes/modules/database/Database.class.php line 79<br>
+Array
+(
+    [code] => 2002
+    [message] => Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+    [query] => mysqli_connect()
+    [context] => /home/you/php/practice/framework/classes/modules/database/Database.class.php line 79
+)
+ []
+[2016-09-01 05:19:46] db_error.CRITICAL 4908 b7b2297: SQL Error: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) at /home/you/php/practice/framework/classes/modules/database/Database.class.php line 79<br>
+Array
+(
+    [code] => 2002
+    [message] => Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+    [query] => mysqli_connect()
+    [context] => /home/you/php/practice/framework/classes/modules/database/Database.class.php line 79
+)
+ []
